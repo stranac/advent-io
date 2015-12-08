@@ -2,17 +2,18 @@
 Input files and correct solutions to the problems on adventofcode.com
 
 The structure of this repository should conform to these rules:
-day1
+```
+day01
 ...
-dayN
-
+day25
+```
 Within each folder:
 ```
-  day1:
-    {name}.input
-    {name}.output
-    {another name}.input
-    {another name}.output
+day01:
+  {name}.input
+  {name}.output
+  {another name}.input
+  {another name}.output
 ```
   You may replace {name} with anything you want, so long as your input and output files use the same name
 The structure of output files:
