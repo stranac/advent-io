@@ -1,6 +1,6 @@
 # advent-io
 Input files and correct solutions to the problems on adventofcode.com
-
+Accepting of all pull requests, after I confirm them with my own code, or you provide proof that the answers are correct.
 The structure of this repository should conform to these rules:
 ```
 day01
